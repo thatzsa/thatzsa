@@ -1,6 +1,6 @@
-# Hi! 👋 Eu sou a Thais
+# Oie! 👋 Eu sou a Thais
 
-🎓 Estudante de **Ciência de Dados** na **UFMG**, com interesse em transformar teoria em **projetos práticos e aplicações reais**.
+# 🎓 Estudante de **Ciência de Dados** na **UFMG**, com interesse em transformar teoria em **projetos práticos e aplicações reais**.
 
 ---
 
@@ -13,15 +13,6 @@
 
 ---
 
-## 📈 Linguagens mais utilizadas nos meus repositórios
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thatzsa&show_icons=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatzsa&layout=compact&cache_seconds=1800"/>
-</div>
-
----
-
 ## 🛠️ Tecnologias
 
 <div align="left">
@@ -31,6 +22,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40px" title="Jupyter"/>
 </div>
+
+---
+
+## 🚀 Alguns projetos que estão nos meus repositórios
+
+- 📌 Projeto de análise de dados utilizando a biblioteca Pandas.
+- 🔐 Programação de uma aplicação de cofre de senhas, com criptografia básica e uso de BD
+- 🤖 Desenvolvimento de jogos para praticar lógica de programação
 
 ---
 
