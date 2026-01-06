@@ -1,6 +1,6 @@
 # Hi! 👋 Eu sou a Thais
 
-🎓 Estudante de **Ciência de Dados** na **UFMG**, com interesse em transformar teoria em projetos práticos e com impacto.  
+🎓 Estudante de **Ciência de Dados** na **UFMG**, com interesse em transformar teoria em **projetos práticos e aplicações reais**.
 
 ---
 
@@ -9,17 +9,16 @@
 - 📊 Ciência de Dados | Programação | Matemática
 - 🐍 **Python**, **C** e **C++**
 - 🔐 Interesse em **Machine Learning** e **Cybersegurança**
-- 📚 Sempre aprendendo algo novo e reforçando aprendizados antigos
+- 📚 Sempre aprendendo algo novo e reforçando fundamentos
 
 ---
 
-## 📈 Linguagens utilizadas nos meus projetos
+## 📈 Linguagens mais utilizadas nos meus repositórios
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thatzsa&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatzsa&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thatzsa&show_icons=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatzsa&layout=compact&cache_seconds=1800"/>
 </div>
-
 
 ---
 
