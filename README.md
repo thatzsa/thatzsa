@@ -2,7 +2,7 @@
   <img src="./head.png" alt="thais@ndthemachine" width="100%">
 </p>
 
-# 🎓 Estudante de Ciência de Dados @ UFMG
+# 🎓 estudante de ciência de dados @ UFMG
 
 📊 Interessada em análise de dados, estatística, álgebra linear computacional e segurança da informação.
 
@@ -11,6 +11,7 @@
 - Estruturas de Dados e Algoritmos
 - Banco de Dados e SQL
 - Estatística para Ciência de Dados e análise exploratória de dados (EDA)
+- Álgebra Linear Computacional
 - Fundamentos de Segurança da Informação
 
 ---
