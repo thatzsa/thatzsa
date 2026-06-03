@@ -2,7 +2,7 @@
   <img src="./head.png" alt="thais@ndthemachine" width="100%">
 </p>
 
-# 🎓 estudante de ciência de dados @ UFMG
+# 🎓 estudante de ciência de dados na UFMG
 
 📊 Interessada em análise de dados, estatística, álgebra linear computacional e segurança da informação.
 
