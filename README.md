@@ -2,8 +2,6 @@
   <img src="./head.png" alt="thais@ndthemachine" width="100%">
 </p>
 
-# 🚀 thais@ndthemachine:~ $ whoami
-
 # 🎓 Estudante de Ciência de Dados @ UFMG
 
 📊 Interessada em análise de dados, estatística, álgebra linear computacional e segurança da informação.
